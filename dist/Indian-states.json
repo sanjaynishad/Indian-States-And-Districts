@@ -1,0 +1,154 @@
+[
+    {
+        "name": "Andaman and Nicobar Island (UT)",
+        "code": "AN"
+    },
+    {
+        "name": "Andhra Pradesh",
+        "code": "AP"
+    },
+    {
+        "name": "Arunachal Pradesh",
+        "code": "AR"
+    },
+    {
+        "name": "Assam",
+        "code": "AS"
+    },
+    {
+        "name": "Bihar",
+        "code": "BR"
+    },
+    {
+        "name": "Chandigarh (UT)",
+        "code": "CH"
+    },
+    {
+        "name": "Chhattisgarh",
+        "code": "CG"
+    },
+    {
+        "name": "Dadra and Nagar Haveli (UT)",
+        "code": "DN"
+    },
+    {
+        "name": "Daman and Diu (UT)",
+        "code": "DD"
+    },
+    {
+        "name": "Delhi (NCT)",
+        "code": "DL"
+    },
+    {
+        "name": "Goa",
+        "code": "GA"
+    },
+    {
+        "name": "Gujarat",
+        "code": "GJ"
+    },
+    {
+        "name": "Haryana",
+        "code": "HR"
+    },
+    {
+        "name": "Himachal Pradesh",
+        "code": "HP"
+    },
+    {
+        "name": "Jammu and Kashmir(UT)",
+        "code": "JK"
+    },
+    {
+        "name": "Jharkhand",
+        "code": "JH"
+    },
+    {
+        "name": "Karnataka",
+        "code": "KA"
+    },
+    {
+        "name": "Kerala",
+        "code": "KL"
+    },
+    {
+        "name": "Ladakh(UT)",
+        "code": "LK"
+    },
+    {
+        "name": "Lakshadweep (UT)",
+        "code": "LD"
+    },
+    {
+        "name": "Madhya Pradesh",
+        "code": "MP"
+    },
+    {
+        "name": "Maharashtra",
+        "code": "MH"
+    },
+    {
+        "name": "Manipur",
+        "code": "MN"
+    },
+    {
+        "name": "Meghalaya",
+        "code": "ML"
+    },
+    {
+        "name": "Mizoram",
+        "code": "MZ"
+    },
+    {
+        "name": "Nagaland",
+        "code": "NL"
+    },
+    {
+        "name": "Odisha",
+        "code": "OR"
+    },
+    {
+        "name": "Puducherry (UT)",
+        "code": "PY"
+    },
+    {
+        "name": "Punjab",
+        "code": "PB"
+    },
+    {
+        "name": "Rajasthan",
+        "code": "RJ"
+    },
+    {
+        "name": "Sikkim",
+        "code": "SK"
+    },
+    {
+        "name": "statename",
+        "code": "stateid"
+    },
+    {
+        "name": "Tamil Nadu",
+        "code": "TN"
+    },
+    {
+        "name": "Telangana",
+        "code": "TG"
+    },
+    {
+        "name": "Tripura",
+        "code": "TR"
+    },
+    {
+        "name": "Uttarakhand",
+        "code": "UK"
+    },
+    {
+        "name": "Uttar Pradesh",
+        "code": "UP"
+    },
+    {
+        "name": "West Bengal",
+        "code": "WB"
+    }
+]

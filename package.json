@@ -1,0 +1,31 @@
+{
+  "name": "indian-states-and-districts",
+  "version": "1.0.0",
+  "description": "Indian states and districts list in JSON and CSV",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjaynishad/Indian-States-And-Districts.git"
+  },
+  "keywords": [
+    "Indian",
+    "states",
+    "cities",
+    "JSON",
+    "CSV"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjaynishad/Indian-States-And-Districts/issues"
+  },
+  "homepage": "https://github.com/sanjaynishad/Indian-States-And-Districts#readme",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "got": "^12.4.1"
+  }
+}
