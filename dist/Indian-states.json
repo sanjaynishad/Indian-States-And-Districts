@@ -1,6 +1,6 @@
 [
     {
-        "name": "Andaman and Nicobar Island (UT)",
+        "name": "Andaman and Nicobar Islands",
         "code": "AN"
     },
     {
@@ -20,7 +20,7 @@
         "code": "BR"
     },
     {
-        "name": "Chandigarh (UT)",
+        "name": "Chandigarh",
         "code": "CH"
     },
     {
@@ -28,15 +28,11 @@
         "code": "CG"
     },
     {
-        "name": "Dadra and Nagar Haveli (UT)",
-        "code": "DN"
+        "name": "Dadra and Nagar Haveli and Daman and Diu",
+        "code": "ND"
     },
     {
-        "name": "Daman and Diu (UT)",
-        "code": "DD"
-    },
-    {
-        "name": "Delhi (NCT)",
+        "name": "Delhi",
         "code": "DL"
     },
     {
@@ -56,7 +52,7 @@
         "code": "HP"
     },
     {
-        "name": "Jammu and Kashmir(UT)",
+        "name": "Jammu and Kashmir",
         "code": "JK"
     },
     {
@@ -72,11 +68,11 @@
         "code": "KL"
     },
     {
-        "name": "Ladakh(UT)",
-        "code": "LK"
+        "name": "Ladakh",
+        "code": "LA"
     },
     {
-        "name": "Lakshadweep (UT)",
+        "name": "Lakshadweep",
         "code": "LD"
     },
     {
@@ -105,10 +101,10 @@
     },
     {
         "name": "Odisha",
-        "code": "OR"
+        "code": "OD"
     },
     {
-        "name": "Puducherry (UT)",
+        "name": "Puducherry",
         "code": "PY"
     },
     {
@@ -124,28 +120,24 @@
         "code": "SK"
     },
     {
-        "name": "statename",
-        "code": "stateid"
-    },
-    {
         "name": "Tamil Nadu",
         "code": "TN"
     },
     {
         "name": "Telangana",
-        "code": "TG"
+        "code": "TS"
     },
     {
         "name": "Tripura",
         "code": "TR"
     },
     {
-        "name": "Uttarakhand",
-        "code": "UK"
-    },
-    {
         "name": "Uttar Pradesh",
         "code": "UP"
+    },
+    {
+        "name": "Uttarakhand",
+        "code": "UK"
     },
     {
         "name": "West Bengal",
