@@ -2,6 +2,9 @@ import got from 'got';
 import { load } from "cheerio";
 import fs from 'fs';
 import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const BASE = 'https://igod.gov.in';
 const STATES_URL = `${BASE}/sg/district/states`;
@@ -114,7 +117,6 @@ async function scrapeDistricts(stateCode) {
             districtsOnlyJson = districtsOnlyJson.concat(s.districts);
         });
 
-        const __dirname = path.dirname("");
         const distDir = path.join(__dirname, "dist");
         if (!fs.existsSync(distDir)) {
             fs.mkdirSync(distDir, { recursive: true });
@@ -126,7 +128,7 @@ async function scrapeDistricts(stateCode) {
         fs.writeFileSync(path.join(distDir, "Indian-state-code-districts.json"), JSON.stringify(statesCodeDistrictsMap, null, 4));
         fs.writeFileSync(path.join(distDir, "Indian-state-name-districts.json"), JSON.stringify(statesNameDistrictsMap, null, 4));
 
-        console.log(`Scrapped states and districts succesfuly!`);
+        console.log(`Scraped states and districts successfully!`);
     } catch (error) {
         console.error(error)
     }
