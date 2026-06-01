@@ -29,4 +29,4 @@ npm run generate
 ```
 
 ## Data Source
-http://districts.nic.in/
+https://igod.gov.in/sg/district/states
